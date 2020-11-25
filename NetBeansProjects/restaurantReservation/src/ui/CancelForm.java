@@ -237,6 +237,24 @@ public class CancelForm extends javax.swing.JFrame {
      
     private void emailFieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_emailFieldActionPerformed
         // TODO add your handling code here:
+        		
+//			System.out.print("Enter email address : ");
+//			String email = input.nextLine();
+//			boolean isFound = true;
+//					
+//			while (isFound) {
+//				ResultSet returnUser = findUser(conn, email);
+//				if (returnUser != null) {
+//					System.err.println("This email addrese is already used.");
+//					System.out.print("Enter email address : ");
+//					email = input.nextLine();
+//				} else if (returnUser == null) {
+//					isFound = false;
+//					return email;
+//				}
+//			}
+//			return null;
+		
     }//GEN-LAST:event_emailFieldActionPerformed
 
     private void lastNameFieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_lastNameFieldActionPerformed
